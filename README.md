@@ -1,4 +1,4 @@
-# Hi, I’m Chedva Abramovitz 👋
+# Hi, I’m Chedva Avramovitz 👋
 
 I’m a software developer who enjoys solving problems, learning deeply, and turning ideas into working products.
 
